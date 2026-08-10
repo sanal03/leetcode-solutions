@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sanal03/leetcode-solutions/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/sanal03/leetcode-solutions/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanal03/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/sanal03/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
